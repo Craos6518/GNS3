@@ -1,70 +1,89 @@
+Claro, aquí tienes tu texto actualizado con los nombres de los participantes agregados de forma destacada en una sección especial:
+
+---
+
 # 🌐 Proyecto GNS3: Topología Web/Mail Interconectada 🚀
 
 ![GNS3](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/GNS3_logo.svg/512px-GNS3_logo.svg.png)
 
-Este proyecto simula una infraestructura de red completa con servidores web y de correo, segmentación por VLANs, acceso inalámbrico y conexión a Internet, todo dentro del entorno GNS3. Ideal para aprender, practicar y demostrar habilidades en redes Cisco y servicios Linux.  
+Este proyecto simula una infraestructura de red completa con servidores web y de correo, segmentación por VLANs, acceso inalámbrico y conexión a Internet, todo dentro del entorno GNS3. Ideal para aprender, practicar y demostrar habilidades en redes Cisco y servicios Linux.
+
+---
+
+## 👥 Participantes del Proyecto
+
+* **Juan Andrés Muñoz Zapata**
+* **Paul M. Moreno Polanía**
+* **Andrés Camilo Quintero Chávarro**
+* **Andrés Felipe Martínez Henao**
 
 ---
 
 ## 🎯 Objetivos Principales
 
-✅ Configurar conectividad entre dispositivos  
-✅ Implementar **VLANs** y **Inter-VLAN Routing**  
-✅ Instalar servicios **Web (HTTP)** y **Mail (SMTP/POP3/IMAP)**  
-✅ Simular acceso a **Internet**  
-✅ Configurar **DHCP**, **NAT/PAT** y **DNS**  
-✅ Realizar pruebas de conectividad y servicios  
+✅ Configurar conectividad entre dispositivos
+✅ Implementar **VLANs** y **Inter-VLAN Routing**
+✅ Instalar servicios **Web (HTTP)** y **Mail (SMTP/POP3/IMAP)**
+✅ Simular acceso a **Internet**
+✅ Configurar **DHCP**, **NAT/PAT** y **DNS**
+✅ Realizar pruebas de conectividad y servicios
 
 ---
 
 ## 🧱 Componentes de Red (GNS3)
 
-- 🖧 **Routers Cisco** (R1, R2, Internet)
-- 🔀 **Switch L2** (VLAN 10 y 20)
-- 🖥️ **Servidores Linux** (Apache, Postfix, Dovecot)
-- 👨‍💻 **Clientes** (PC1, PC2, Laptop)
-- ☁️ **Red simulada a Internet**
+* 🖧 **Routers Cisco** (R1, R2, Internet)
+* 🔀 **Switch L2** (VLAN 10 y 20)
+* 🖥️ **Servidores Linux** (Apache, Postfix, Dovecot)
+* 👨‍💻 **Clientes** (PC1, PC2, Laptop)
+* ☁️ **Red simulada a Internet**
 
 ---
 
 ## 🛠️ Fases del Proyecto
 
 ### 🗺️ Fase 1: Planificación IP
-- Subredes para VLANs, servidores y enlaces
-- Asignación estática y DHCP
+
+* Subredes para VLANs, servidores y enlaces
+* Asignación estática y DHCP
 
 ### 🧩 Fase 2: Topología en GNS3
-- Agregar y conectar dispositivos
+
+* Agregar y conectar dispositivos
 
 ### 📡 Fase 3: Configuración de Routers
-- Interfaces, subinterfaces, NAT, DHCP, Routing
+
+* Interfaces, subinterfaces, NAT, DHCP, Routing
 
 ### 🎛️ Fase 4: Configuración del Switch
-- VLANs y trunking
+
+* VLANs y trunking
 
 ### 🖥️ Fase 5: Configuración de Servidores
-- Web y Mail con pruebas
+
+* Web y Mail con pruebas
 
 ### 💻 Fase 6: Configuración de Clientes
-- IPs, pruebas de navegación y correo
+
+* IPs, pruebas de navegación y correo
 
 ---
 
 ## 🔍 Verificaciones
 
-- 📶 Ping y traceroute entre dispositivos
-- 🌐 Acceso a páginas web
-- 📧 Envío y recepción de correos
-- 🔐 Separación de tráfico por VLANs
+* 📶 Ping y traceroute entre dispositivos
+* 🌐 Acceso a páginas web
+* 📧 Envío y recepción de correos
+* 🔐 Separación de tráfico por VLANs
 
 ---
 
 ## 🧠 Resultados y Aprendizajes
 
-✨ Dominio de configuración de redes Cisco  
-✨ Experiencia realista con servicios Linux  
-✨ Uso profesional de GNS3  
-✨ Desarrollo de habilidades de troubleshooting  
+✨ Dominio de configuración de redes Cisco
+✨ Experiencia realista con servicios Linux
+✨ Uso profesional de GNS3
+✨ Desarrollo de habilidades de troubleshooting
 
 ---
 
@@ -72,7 +91,12 @@ Este proyecto simula una infraestructura de red completa con servidores web y de
 
 ---
 
-📁 _Simulado y probado en: GNS3, Cisco IOS, Linux (TinyCore/Alpine)_
-    
-##Enlace de descarga: 
-    https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view
+📁 *Simulado y probado en: GNS3, Cisco IOS, Linux (TinyCore/Alpine)*
+
+## Enlace de descarga:
+
+[https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view](https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view)
+
+---
+
+¿Quieres que también agregue una sección de agradecimientos, bibliografía o instrucciones de uso?
