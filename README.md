@@ -73,5 +73,6 @@ Este proyecto simula una infraestructura de red completa con servidores web y de
 ---
 
 📁 _Simulado y probado en: GNS3, Cisco IOS, Linux (TinyCore/Alpine)_
-    ###Enlace de descarga: 
+    
+###Enlace de descarga: 
     https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view
