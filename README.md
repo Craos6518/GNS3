@@ -1,4 +1,3 @@
-Claro, aquí tienes tu texto actualizado con los nombres de los participantes agregados de forma destacada en una sección especial:
 
 ---
 
@@ -98,5 +97,3 @@ Este proyecto simula una infraestructura de red completa con servidores web y de
 [https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view](https://drive.google.com/file/d/1pb4DOMVfDo592TPZt3fL34g9w4IazbTB/view)
 
 ---
-
-¿Quieres que también agregue una sección de agradecimientos, bibliografía o instrucciones de uso?
